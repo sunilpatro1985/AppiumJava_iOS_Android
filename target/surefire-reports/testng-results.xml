@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="11105" started-at="2018-08-04T14:57:18Z" finished-at="2018-08-04T14:57:29Z">
+    <groups>
+    </groups>
+    <test name="TestApps" duration-ms="11105" started-at="2018-08-04T14:57:18Z" finished-at="2018-08-04T14:57:29Z">
+      <class name="iOSTest.TestApp">
+        <test-method status="PASS" signature="Test()[pri:0, instance:iOSTest.TestApp@2d554825]" name="Test" duration-ms="10849" started-at="2018-08-04T20:27:18Z" finished-at="2018-08-04T20:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:iOSTest.TestApp@2d554825]" name="TearDown" is-config="true" duration-ms="238" started-at="2018-08-04T20:27:29Z" finished-at="2018-08-04T20:27:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- iOSTest.TestApp -->
+    </test> <!-- TestApps -->
+  </suite> <!-- Suite1 -->
+</testng-results>
