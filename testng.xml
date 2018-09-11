@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" >
   <test name="TestApps">
     <classes>
-      <class name="iOSTest.TestApp" />
+      <class name="androidTest.TestApp" />
    </classes>
  </test>
  
